@@ -1,0 +1,29 @@
+.box{
+    border-radius: 10px;
+  border: 5px solid rgb(177, 177, 177);
+  background-color: #71a8e2;
+  text-align: center;
+  padding: 30px;
+  width: 300px;
+  text-align: left;
+  height: 300px;
+}
+
+.BARANG input[type="text"], .BARANG input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.cari {
+    width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+  background: #333;
+}

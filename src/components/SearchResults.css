@@ -1,0 +1,10 @@
+
+.result-image {
+    width: 100%;
+    height: auto; 
+    max-height: 200px;
+    object-fit: cover;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    margin-top: 10px; 
+  }

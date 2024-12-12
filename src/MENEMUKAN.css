@@ -1,0 +1,55 @@
+.d-flex{
+    height: 80vh;
+    border-radius: 10px;
+  border: 5px solid rgb(177, 177, 177);
+  background-color: #71a8e2;
+  text-align: center;
+  padding: 30px;
+  width: 350px;
+  text-align: left;
+  height: 500px;
+}
+.img{
+    border: solid rgb(146, 146, 146);
+    border-radius: 2px;
+    width: 100%; /* Mengatur lebar gambar agar sesuai dengan elemen pembungkus */
+    height: auto; /* Menjaga proporsi gambar */
+    max-height: 200px; /* Atur tinggi maksimum untuk gambar */
+    object-fit: cover; /* Memastikan gambar mengisi area tanpa merusak proporsi */
+
+}
+.uploud{
+    border: solid rgb(209, 209, 209);
+    border-radius: 2px;
+    background-color: white;
+
+}
+.save{
+    width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+  background: #333333;
+}
+.description{
+  border: solid rgb(209, 209, 209);
+    border-radius: 2px;
+    background-color: white;
+    width: 250px;
+}
+.date{
+  border: solid rgb(209, 209, 209);
+    border-radius: 2px;
+    background-color: white;
+    width: 250px;
+}
+.no{
+  border: solid rgb(209, 209, 209);
+    border-radius: 2px;
+    background-color: white;
+    width: 250px;
+}
+
